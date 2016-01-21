@@ -1,0 +1,3 @@
+http://yang3wei.github.io/blog/2013/02/01/git-why-everything-up-to-date-when-pushing/
+http://blog.rexzhao.com/2011/11/28/google-code-git-everything-up-to-date-when-push.html
+
